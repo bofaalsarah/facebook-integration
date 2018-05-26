@@ -29,7 +29,7 @@
         "cordova-ios": "^4.4.0",
         "cordova-plugin-console": "^1.0.5",
         "cordova-plugin-device": "^1.1.4",
-        "cordova-plugin-facebook4": "^1.9.1",
+        "cordova-plugin-facebook4": "^1.10.1",
         "cordova-plugin-splashscreen": "^4.0.3",
         "cordova-plugin-statusbar": "^2.2.2",
         "cordova-plugin-whitelist": "^1.3.1",
@@ -48,8 +48,8 @@
     "cordova": {
         "plugins": {
             "cordova-plugin-facebook4": {
-                "APP_ID": "220318161710548",
-                "APP_NAME": "Djamware"
+                "APP_ID": "448825675572205",
+                "APP_NAME": "Bofa's first app"
             },
             "cordova-plugin-console": {},
             "cordova-plugin-device": {},
